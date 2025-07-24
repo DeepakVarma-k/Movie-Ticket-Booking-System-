@@ -91,23 +91,6 @@ Amount: ₹25
 - Input validation is handled for out-of-range rows/columns and double bookings.
 - Useful for beginners learning object-oriented Java.
 
----
-
-## 📁 Folder Structure (if multiple files)
-
-```
-Cinema.java       // contains main() and all classes
-```
-
-Or:
-
-```
-src/
-├── Cinema.java   // Main class
-├── Counter.java
-├── Display.java
-├── Person.java
-```
 
 ---
 
@@ -122,5 +105,5 @@ src/
 
 ## 👨‍💻 Author
 
-Built by **[Your Name Here]**  
+Built by **k.Deepak Varma**  
 Feel free to use, modify, or extend this program.
